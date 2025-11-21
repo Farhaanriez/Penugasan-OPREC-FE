@@ -1,0 +1,6 @@
+Jadi selama mengerjakan penugasan ini saya jujur banyak menggunakan AI karena saya masih baru belajar menggunakan HTML, CSS, dan Javascript.
+Mulai dari memunculkan beberapa foto pada section features supaya persis dengan design figma.
+Kemudian memasukkan element yang ada dipojok section hero dan about karena saat saya pertama kali memasukkan itu layoutnya menjadi kacau dan rusak, ini saya membuatnya sebelum ada perintah bahwa element ini ternyata opsional dan saya sudah terlanjut menambahkannya.
+Kemudian supaya bisa membuat section yang bisa di scroll ke kanan yaitu pada section portfolio.
+Selanjutnya saya menggunakan ai ketika styling menggunakan css akan tetapi hasilnya tidak pas, padahal saya sudah mengikuti semua ukuran di figma.
+Tidak hanya ketika styling, tetapi ketika banyak cara yang saya tidak ketahui termasuk memilih tag pada html itu saya juga menggunakan ai, misalnya kapan harus menggunakan tag footer dan kapan harus menggunakan section.
